@@ -105,6 +105,13 @@ queue_region = [(217, 288), (342, 436), (562, 225), (455, 147)]
 
 ---
 
+## Example output
+
+Below is a sample annotated frame from the processed video:
+
+![Queue management output](output_images/output_1.png "Annotated output frame")
+
+
 ## Notes & Tips
 - Coordinates are pixel coordinates relative to the frame used in the GUI (first frame).
 - For production use, consider adding CLI args or a config file for paths, model, device and thresholds.
