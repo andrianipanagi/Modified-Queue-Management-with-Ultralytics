@@ -107,9 +107,11 @@ queue_region = [(217, 288), (342, 436), (562, 225), (455, 147)]
 
 ## Example output
 
-Below is a sample annotated frame from the processed video:
+Below are sample annotated frames from the processed video:
 
 ![Queue management output](output_images/output_1.png "Annotated output frame")
+![Queue management output](output_images/output_2.png "Annotated output frame")
+![Queue management output](output_images/output_3.png "Annotated output frame")
 
 
 ## Notes & Tips
